@@ -1,0 +1,16 @@
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.csproj.AssemblyReference.cache
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.AssemblyInfoInputs.cache
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.AssemblyInfo.cs
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.csproj.CoreCompileInputs.cache
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.exe
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.deps.json
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.runtimeconfig.json
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.runtimeconfig.dev.json
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.dll
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\ref\q55.dll
+C:\Users\DANISH\Desktop\questions\q55\bin\Debug\net5.0\q55.pdb
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.dll
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\ref\q55.dll
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.pdb
+C:\Users\DANISH\Desktop\questions\q55\obj\Debug\net5.0\q55.genruntimeconfig.cache
